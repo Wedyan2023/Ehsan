@@ -5,3 +5,4 @@ The dataset collected through a survey conducted from 29/10/2023 to 10/11/2023 a
 # second dataset called Ehsan_Orphan_dataset.csv
 The dataset collected from Ehsan.sa platform from Orphans' sponsorship completed campaigns.
 The dataset have 30 records.
+The two dataset collected by Wedyan Alsakran.
